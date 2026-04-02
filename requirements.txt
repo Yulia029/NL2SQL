@@ -1,0 +1,5 @@
+streamlit
+pandas
+plotly
+llama-index-llms-google-genai
+llama-index-core
